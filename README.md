@@ -8,7 +8,7 @@
 * It can identify with a 80% accuracy.
 
 ## 🔧 Tech Stack
-* Httml, CSS, Javascript and Python
+* Html, CSS, Javascript and Python
 
 ## 🤝 Contributing
 * Want to improve WebSmith? PRs are welcome!
